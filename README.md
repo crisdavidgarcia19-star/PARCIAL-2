@@ -50,12 +50,3 @@ Cada nodo almacena los datos del contenedor y dos enlaces:
 
 Los punteros globales `inicio` y `fin` permiten recorrer la lista en ambos sentidos.
 
-## Publicación en GitHub
-1. Entra a https://github.com e inicia sesión.
-2. Pulsa **New repository** y escribe `Parcial2-Contenedores-Portuarios`.
-3. Crea el repositorio (puede ser público).
-4. Sube `main.c`, `README.md` y `Parcial2.pdf` desde **Add file > Upload files**, o usa Git desde la terminal.
-5. Pulsa **Commit changes**.
-
-## Importante para la sustentación
-Debes poder explicar qué es un nodo, para qué sirven `anterior` y `siguiente`, cómo se asigna el ID, cómo se actualizan los enlaces al eliminar y por qué se usa `free`.
